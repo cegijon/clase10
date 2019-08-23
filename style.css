@@ -42,6 +42,8 @@ margin-right: 20px;
 background-color: #ffffff;
 height: 400px;
 color: #000000;
+margin-left: 100px;
+margin-right: 100px;
 }
 
 a{
@@ -53,6 +55,7 @@ a{
     background-color: #1abc9c;
     height: 400px;
     color: #ffffff;
+    margin-top: 100px;
     
 }
 
@@ -60,10 +63,16 @@ a{
     height: 200px;
     width: 200px;
     display: inline-block;
+    text-align: justify;
+    margin-right: 20px;
 
 }
 
 .texto2 {
-    height: 200px;
+    height: 100px;
     width: 200px;
+    display: inline-block;
+    text-align: justify;
+    
+    
 }
