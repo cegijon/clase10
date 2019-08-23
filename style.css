@@ -40,7 +40,7 @@ margin-right: 20px;
 
 .item1 {
 background-color: #ffffff;
-height: 300px;
+height: 400px;
 color: #000000;
 margin-left: 100px;
 margin-right: 100px;
@@ -55,7 +55,7 @@ a{
     background-color: #1abc9c;
     height: 400px;
     color: #ffffff;
-    margin-top: 100px;
+    padding-top: 30px;
     
 }
 
@@ -66,6 +66,7 @@ a{
     text-align: justify;
     margin-right: 20px;
 
+
 }
 
 .texto2 {
@@ -74,5 +75,4 @@ a{
     display: inline-block;
     text-align: justify;
     
-    
-}
+    }
