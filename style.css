@@ -38,13 +38,32 @@ display: inline-block;
 margin-right: 20px;
 }
 
-.parte2 {
-background-color: #1abc9c;
-height: 100px;
-color: #ffffff
+.item1 {
+background-color: #ffffff;
+height: 400px;
+color: #000000;
 }
 
 a{
  text-decoration: none;
  color: #ffffff;
+}
+
+.item2 {
+    background-color: #1abc9c;
+    height: 400px;
+    color: #ffffff;
+    
+}
+
+.texto1 {
+    height: 200px;
+    width: 200px;
+    display: inline-block;
+
+}
+
+.texto2 {
+    height: 200px;
+    width: 200px;
 }
