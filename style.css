@@ -9,6 +9,11 @@ margin: 0;
 font-family: 'Montserrat', sans-serif;
 }
 
+a{
+    text-decoration: none;
+    color: #ffffff;
+   }
+
 .header{ 
 background-color: #343a40;
 color:#ffffff;
@@ -38,7 +43,7 @@ display: inline-block;
 margin-right: 20px;
 }
 
-.item1 {
+.Porfolio {
 background-color: #ffffff;
 height: 400px;
 color: #000000;
@@ -46,12 +51,9 @@ margin-left: 100px;
 margin-right: 100px;
 }
 
-a{
- text-decoration: none;
- color: #ffffff;
-}
 
-.item2 {
+
+.About {
     background-color: #1abc9c;
     height: 400px;
     color: #ffffff;
