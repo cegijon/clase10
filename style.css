@@ -17,6 +17,14 @@ color: #ffffff;
 background-color: #343a40;
 color:#ffffff;
 height: 75px;
+position: fixed; 
+top: 0; 
+width: 100%; 
+}
+
+.menu {position: absolute;
+top: 5px;
+right: 20px;
 }
 
 .section {
@@ -40,6 +48,7 @@ margin-right: 600px;
 .item {
 display: inline-block;
 margin-right: 20px;
+margin-left: 20px;
 }
 
 .Porfolio {
