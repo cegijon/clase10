@@ -24,13 +24,12 @@ width: 100%;
 
 .menu {position: absolute;
 top: 5px;
-right: 20px;
-}
+right: 20px;}
 
 .section {
 background-color: #1abc9c;
 color: #ffffff;
-padding-top: 100px;
+padding-top: 175px;
 padding-bottom: 50px;
 }
 
